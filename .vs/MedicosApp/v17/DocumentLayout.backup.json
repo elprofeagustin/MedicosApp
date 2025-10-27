@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\medicosapp\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|solutionrelative:medicosapp\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\medicosapp\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|solutionrelative:medicosapp\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\medicosapp\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|solutionrelative:medicosapp\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\medicosapp\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|solutionrelative:medicosapp\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\medicosapp\\formalta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|solutionrelative:medicosapp\\formalta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|c:\\users\\ammed\\onedrive\\escritorio\\misejercicios\\medicosapp\\medicosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|solutionrelative:medicosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\medicosapp\\formlistado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|solutionrelative:medicosapp\\formlistado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\medicosapp\\formlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|solutionrelative:medicosapp\\formlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\medicosapp\\formlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7634C4B1-B613-4271-A92B-52628420BD05}|MedicosApp\\MedicosApp.csproj|solutionrelative:medicosapp\\formlistado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormListado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormListado.cs",
+              "RelativeDocumentMoniker": "MedicosApp\\FormListado.cs",
+              "ToolTip": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormListado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MedicosApp\\FormListado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:49:09.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAlta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormAlta.Designer.cs",
+              "RelativeDocumentMoniker": "MedicosApp\\FormAlta.Designer.cs",
+              "ToolTip": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormAlta.Designer.cs",
+              "RelativeToolTip": "MedicosApp\\FormAlta.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:48:29.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\Program.cs",
+              "RelativeDocumentMoniker": "MedicosApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\Program.cs",
+              "RelativeToolTip": "MedicosApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:43:22.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "MedicosApp\\JsonHelper.cs",
+              "ToolTip": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\JsonHelper.cs",
+              "RelativeToolTip": "MedicosApp\\JsonHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:44:33.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAlta.cs",
+              "DocumentMoniker": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormAlta.cs",
+              "RelativeDocumentMoniker": "MedicosApp\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormAlta.cs",
+              "RelativeToolTip": "MedicosApp\\FormAlta.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAhwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:47:57.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAlta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormAlta.cs",
+              "RelativeDocumentMoniker": "MedicosApp\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormAlta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MedicosApp\\FormAlta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:47:36.946Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\Medico.cs",
+              "RelativeDocumentMoniker": "MedicosApp\\Medico.cs",
+              "ToolTip": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\Medico.cs",
+              "RelativeToolTip": "MedicosApp\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:43:56.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormListado.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormListado.Designer.cs",
+              "RelativeDocumentMoniker": "MedicosApp\\FormListado.Designer.cs",
+              "ToolTip": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormListado.Designer.cs",
+              "RelativeToolTip": "MedicosApp\\FormListado.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:49:26.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormListado.cs",
+              "DocumentMoniker": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormListado.cs",
+              "RelativeDocumentMoniker": "MedicosApp\\FormListado.cs",
+              "ToolTip": "C:\\Users\\ammed\\OneDrive\\Escritorio\\MisEjercicios\\MedicosApp\\MedicosApp\\FormListado.cs",
+              "RelativeToolTip": "MedicosApp\\FormListado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T20:49:15.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
