@@ -26,16 +26,9 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
-            this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
             this.textBox3 = new System.Windows.Forms.TextBox();
-            this.button3 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvMedicos)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             this.SuspendLayout();
             // 
             // lblDni
@@ -105,7 +98,7 @@
             this.dgvMedicos.Location = new System.Drawing.Point(12, 110);
             this.dgvMedicos.Name = "dgvMedicos";
             this.dgvMedicos.RowTemplate.Height = 25;
-            this.dgvMedicos.Size = new System.Drawing.Size(542, 185);
+            this.dgvMedicos.Size = new System.Drawing.Size(542, 111);
             this.dgvMedicos.TabIndex = 7;
             // 
             // btnAbrirListado
@@ -122,7 +115,7 @@
             // 
             this.lblRutaArchivo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lblRutaArchivo.AutoSize = true;
-            this.lblRutaArchivo.Location = new System.Drawing.Point(12, 601);
+            this.lblRutaArchivo.Location = new System.Drawing.Point(12, 468);
             this.lblRutaArchivo.Name = "lblRutaArchivo";
             this.lblRutaArchivo.Size = new System.Drawing.Size(46, 13);
             this.lblRutaArchivo.TabIndex = 9;
@@ -159,65 +152,22 @@
             this.dataGridView1.Location = new System.Drawing.Point(634, 110);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 25;
-            this.dataGridView1.Size = new System.Drawing.Size(358, 185);
+            this.dataGridView1.Size = new System.Drawing.Size(358, 111);
             this.dataGridView1.TabIndex = 12;
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(119, 389);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 13;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(121, 434);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 14;
-            // 
-            // numericUpDown1
-            // 
-            this.numericUpDown1.Location = new System.Drawing.Point(121, 481);
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(98, 20);
-            this.numericUpDown1.TabIndex = 15;
-            // 
-            // numericUpDown2
-            // 
-            this.numericUpDown2.Location = new System.Drawing.Point(119, 524);
-            this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown2.TabIndex = 16;
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(634, 342);
+            this.textBox3.Location = new System.Drawing.Point(15, 235);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.textBox3.Size = new System.Drawing.Size(358, 178);
             this.textBox3.TabIndex = 17;
             // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(314, 331);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(154, 41);
-            this.button3.TabIndex = 18;
-            this.button3.Text = "prueba_colecciones";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
             // FormAlta
             // 
-            this.ClientSize = new System.Drawing.Size(1021, 625);
-            this.Controls.Add(this.button3);
+            this.ClientSize = new System.Drawing.Size(1021, 492);
             this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.numericUpDown2);
-            this.Controls.Add(this.numericUpDown1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -237,8 +187,6 @@
             this.Text = "Alta de Médicos";
             ((System.ComponentModel.ISupportInitialize)(this.dgvMedicos)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -258,11 +206,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.NumericUpDown numericUpDown1;
-        private System.Windows.Forms.NumericUpDown numericUpDown2;
         private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.Button button3;
     }
 }
